@@ -7,7 +7,7 @@
 <tr><th>Stage</th><th>Status</th><th>Details</th></tr>
 <tr><td>Research</td><td>Ongoing</td><td>Molecular docking + DFT of herbal compounds vs HDAC2 </td></tr>
 <tr><td>Tools</td><td>Active</td><td>AutoDock Vina | Gaussian | MATLAB | MM/GBSA</td></tr>
-<tr><td>Paper</td><td>Drafting</td><td>Target: <i>J. Chem. Inf. Model.</i> | Expected Q1 2026</td></tr>
+<tr><td>Paper</td><td>Drafting</td><td>Target: <i>J. Publishing</i> | Expected Publishing 2026</td></tr>
 </table>
 
 <h2>Sample MATLAB Analysis (Binding Affinity)</h2>
