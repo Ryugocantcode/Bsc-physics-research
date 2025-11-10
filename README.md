@@ -26,7 +26,5 @@ saveas(gcf, 'docking.png');
 <a href="data.csv">📊 Raw Docking Scores</a></p>
 
 <hr>
-<p><i>“From 5 failed subjects to co-authoring with a published biophysicist — this is my comeback.”</i></p>
-
 </body>
 </html>
