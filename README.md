@@ -13,9 +13,9 @@
 </head>
 <body>
 
-<h1>🧬 Biophysics: HDAC2 Inhibitors via Docking & DFT</h1>
-<p><strong>Student:</strong> [YOUR FULL NAME] | BSc Physics, [YOUR COLLEGE], Nepal<br>
-<strong>Advisor:</strong> Prof. [PROFESSOR'S NAME] (Published in <i>J. Mol. Graph. Model.</i>, etc.)</p>
+<h1>🧬 Research</h1>
+<p><strong>Student:</strong> SUYOG BARAL | BSc Physics, Tri-chandra, Nepal<br>
+<strong>Advisor:</strong> Prof. Arjun Acharya (Published in <i>J. Mol. Graph. Model.</i>, etc.)</p>
 
 <table>
 <tr><th>Stage</th><th>Status</th><th>Details</th></tr>
