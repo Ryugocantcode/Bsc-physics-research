@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Biophysics Docking Portfolio</title>
+<title> Portfolio </title>
 <style>
   body {font-family: Arial; background: #f0f8ff; margin: 20px;}
   h1 {color: #0066cc;}
@@ -19,7 +19,7 @@
 
 <table>
 <tr><th>Stage</th><th>Status</th><th>Details</th></tr>
-<tr><td>Research</td><td>Ongoing</td><td>Molecular docking + DFT of herbal compounds vs HDAC2 (colon cancer target)</td></tr>
+<tr><td>Research</td><td>Ongoing</td><td>Molecular docking + DFT of herbal compounds vs HDAC2 </td></tr>
 <tr><td>Tools</td><td>Active</td><td>AutoDock Vina | Gaussian | MATLAB | MM/GBSA</td></tr>
 <tr><td>Paper</td><td>Drafting</td><td>Target: <i>J. Chem. Inf. Model.</i> | Expected Q1 2026</td></tr>
 </table>
