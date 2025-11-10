@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Portfolio </title>
-<style>
-  body {font-family: Arial; background: #f0f8ff; margin: 20px;}
-  h1 {color: #0066cc;}
-  table {border-collapse: collapse; width: 100%;}
-  th, td {border: 1px solid #ddd; padding: 10px; text-align: left;}
-  pre {background: #f4f4f4; padding: 10px; border-radius: 5px;}
-  img {max-width: 500px; margin: 10px 0;}
-</style>
-</head>
-<body>
 
 <h1>🧬 Research</h1>
 <p><strong>Student:</strong> SUYOG BARAL | BSc Physics, Tri-chandra, Nepal<br>
